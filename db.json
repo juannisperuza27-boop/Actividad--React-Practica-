@@ -1,0 +1,249 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Guitarra Eléctrica Fender Player Stratocaster",
+      "category": "Cuerdas",
+      "condition": "Nuevo",
+      "price": 3450000,
+      "stock": 4,
+      "description": "Guitarra eléctrica con cuerpo de aliso, mástil de arce en perfil Modern C y tres pastillas de bobina simple Alnico 5.",
+      "specs": [
+        {
+          "name": "Cuerpo",
+          "value": "Aliso (Alder)"
+        },
+        {
+          "name": "Pastillas",
+          "value": "3x Single-Coil Alnico 5"
+        }
+      ],
+      "includedItems": [
+        "Llave de ajuste del alma",
+        "Palanca de trémolo",
+        "Manual y certificado de autenticidad"
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-18T09:00:00.000Z",
+      "brand": {
+        "name": "Fender",
+        "country": "Estados Unidos",
+        "supportEmail": "soporte@fender.com"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Batería Acústica Pearl Export EXX",
+      "category": "Percusión",
+      "condition": "Nuevo",
+      "price": 4100000,
+      "stock": 2,
+      "description": "Set completo de 5 piezas fabricado en álamo y caoba asiática con herrajes cromados de alta resistencia.",
+      "specs": [
+        {
+          "name": "Bombo",
+          "value": "22x18 pulgadas"
+        },
+        {
+          "name": "Material",
+          "value": "Álamo y Caoba (6 capas)"
+        }
+      ],
+      "includedItems": [
+        "Pedal de bombo P-930",
+        "Atriles de platillos y hi-hat",
+        "Set de platillos Sabian SBR"
+      ],
+      "favorite": true,
+      "createdAt": "2026-11-19T11:30:00.000Z",
+      "brand": {
+        "name": "Pearl Drums",
+        "country": "Japón",
+        "supportEmail": "info@pearldrum.com"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Sintetizador Analógico Korg Minilogue XD",
+      "category": "Teclados",
+      "condition": "Usado",
+      "price": 2300000,
+      "stock": 1,
+      "description": "Sintetizador polifónico híbrido de 4 voces con motor digital multi-engine, secuenciador por pasos y efectos integrados.",
+      "specs": [
+        {
+          "name": "Teclas",
+          "value": "37 teclas slim sensibles a la velocidad"
+        },
+        {
+          "name": "Polifonía",
+          "value": "4 voces"
+        }
+      ],
+      "includedItems": [
+        "Adaptador de corriente original 9V",
+        "Cable MIDI"
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-20T14:15:00.000Z",
+      "brand": {
+        "name": "Korg",
+        "country": "Japón",
+        "supportEmail": "support@korg.com"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Saxofón Alto Yamaha YAS-280",
+      "category": "Viento",
+      "condition": "Nuevo",
+      "price": 5200000,
+      "stock": 3,
+      "description": "Saxofón en Mi bemol ideal para estudiantes avanzados e intermedios, con afinación precisa y respuesta ligera.",
+      "specs": [
+        {
+          "name": "Afinación",
+          "value": "Eb (Mi bemol)"
+        },
+        {
+          "name": "Acabado",
+          "value": "Lacado dorado"
+        }
+      ],
+      "includedItems": [
+        "Estuche rígido tipo mochila",
+        "Boquilla Yamaha 4C",
+        "Correa y grasa para corcho"
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-21T08:45:00.000Z",
+      "brand": {
+        "name": "Yamaha",
+        "country": "Japón",
+        "supportEmail": "contacto@yamaha.com"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Interfaz de Audio Focusrite Scarlett 2i2 4ta Gen",
+      "category": "Audio y Estudio",
+      "condition": "Nuevo",
+      "price": 890000,
+      "stock": 10,
+      "description": "Interfaz USB-C de 2 entradas y 2 salidas con preamplificadores ultrabajos en ruido y modo Air.",
+      "specs": [
+        {
+          "name": "Resolución",
+          "value": "24-bit / 192 kHz"
+        },
+        {
+          "name": "Conexión",
+          "value": "USB-C"
+        }
+      ],
+      "includedItems": [
+        "Cable USB-C a USB-A",
+        "Paquete de software Hitmaker Expansion"
+      ],
+      "favorite": true,
+      "createdAt": "2026-11-22T16:00:00.000Z",
+      "brand": {
+        "name": "Focusrite",
+        "country": "Reino Unido",
+        "supportEmail": "help@focusrite.com"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Bajo Eléctrico Ibanez SR300E",
+      "category": "Cuerdas",
+      "condition": "Usado",
+      "price": 1450000,
+      "stock": 2,
+      "description": "Bajo activo de 4 cuerdas ligero y ergonómico con ecualizador de 3 bandas y selector Power Tap.",
+      "specs": [
+        {
+          "name": "Cuerdas",
+          "value": "4 cuerdas"
+        },
+        {
+          "name": "Electrónica",
+          "value": "Activa 3 bandas"
+        }
+      ],
+      "includedItems": [
+        "Funda acolchada",
+        "Correa de nylon"
+      ],
+      "favorite": true,
+      "createdAt": "2026-11-23T10:20:00.000Z",
+      "brand": {
+        "name": "Ibanez",
+        "country": "Japón",
+        "supportEmail": "support@ibanez.com"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Pedalera Multiefectos Line 6 POD Go",
+      "category": "Audio y Estudio",
+      "condition": "Colección",
+      "price": 2150000,
+      "stock": 3,
+      "description": "Procesador de guitarra portátil con modelado de amplificadores Helix, pantalla a color y pedal de expresión.",
+      "specs": [
+        {
+          "name": "Modelos",
+          "value": "Más de 270 efectos y amplis"
+        },
+        {
+          "name": "Salidas",
+          "value": "Estéreo balanceadas TRS + Amp Out"
+        }
+      ],
+      "includedItems": [
+        "Fuente de poder DC-3h",
+        "Cable USB"
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-24T09:10:00.000Z",
+      "brand": {
+        "name": "Line 6",
+        "country": "Estados Unidos",
+        "supportEmail": "support@line6.com"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Piano Digital Roland FP-30X",
+      "category": "Teclados",
+      "condition": "Nuevo",
+      "price": 3600000,
+      "stock": 5,
+      "description": "Piano portátil de 88 teclas contrapesadas PHA-4 Standard con motor de sonido SuperNATURAL y Bluetooth.",
+      "specs": [
+        {
+          "name": "Teclas",
+          "value": "88 teclas con acción de martillo"
+        },
+        {
+          "name": "Conectividad",
+          "value": "Bluetooth Audio y MIDI"
+        }
+      ],
+      "includedItems": [
+        "Pedal sustain DP-2",
+        "Atril de partituras",
+        "Adaptador de corriente"
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-24T15:40:00.000Z",
+      "brand": {
+        "name": "Roland",
+        "country": "Japón",
+        "supportEmail": "soporte@roland.com"
+      }
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
